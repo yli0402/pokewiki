@@ -1,0 +1,13 @@
+.Pokemon {
+    width: 20%;
+    color:#19647e;
+    border: 3px solid #463f3a;
+    border-radius: 18px;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+
+    background-color: #a5a58d;
+
+  }
